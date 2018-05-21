@@ -1,6 +1,6 @@
 from ubuntu
 
-env SYNCTHING_VERSION=v0.14.19
+env SYNCTHING_VERSION=v0.14.47
 
 run apt-get update && apt-get install --yes wget ca-certificates
 
