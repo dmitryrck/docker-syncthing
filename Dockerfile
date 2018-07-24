@@ -1,6 +1,6 @@
 from ubuntu
 
-env SYNCTHING_VERSION=v0.14.48
+env SYNCTHING_VERSION=v0.14.49
 
 run apt-get update && \
   apt-get install -y wget ca-certificates && \
